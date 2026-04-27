@@ -26,7 +26,6 @@ plt.savefig("outputs/feature_importance.png")
 
 
 
-
 🚀 Overview
 
 An end-to-end Credit Card Fraud Detection system built using Machine Learning. This project detects fraudulent transactions by analyzing patterns in transaction data and provides real-time predictions through an interactive web application and API.
@@ -67,7 +66,7 @@ fraud-detection/
 └── README.md
 ⚡ How to Run Locally
 🔹 Clone Repo
-git clone https://github.com/your-username/fraud-detection.git
+git clone https://github.com/satyam07july-png/fraud-detection.git
 cd fraud-detection
 🔹 Install Dependencies
 pip install -r requirements.txt
